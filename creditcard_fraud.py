@@ -1,3 +1,4 @@
+!pip install matplotlib
 import timeit
 import pandas as pd
 import matplotlib.pyplot as plt
